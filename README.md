@@ -22,11 +22,7 @@ This repository is a collection of simple yet engaging mini games, perfect for P
    - Add difficulty levels with different number ranges.  
    - Implement a scoring system based on the number of attempts.  
 
-4. **Rock, Paper, Scissors** ✂️  
-   A fun game where the user competes against the computer by choosing "Rock", "Paper", or "Scissors".  
-   **Enhancement Ideas**:  
-   - Add a best-of-three or best-of-five feature.  
-   - Include more options, such as "Lizard" and "Spock" (from "The Big Bang Theory" version).  
+ 
 
 ## **How to Use This Repository**
 
