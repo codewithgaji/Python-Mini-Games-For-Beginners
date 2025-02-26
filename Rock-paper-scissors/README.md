@@ -14,7 +14,7 @@ A fun and interactive Rock-Paper-Scissors game where you play against the comput
 ---
 
 ## How to Play
-1. Start playing right away with this link: https://tinyurl.com/gaji-rock-paper-scissors
+1. Start playing right away with this [link](https://tinyurl.com/gaji-rock-paper-scissors)
 
 2. Clone this repository:
    ```bash
