@@ -12,7 +12,7 @@ Welcome to the **Number Guessing Game**, a fun and interactive Python program wh
 - Option to replay the game after each round.
 
 ## How to Play
-1. Try the game out on Google Colab by clicking this link: https://tinyurl.com/gajinumguessinggame
+1. Try the game out on Google Colab by clicking this [link](https://tinyurl.com/gajinumguessinggame)
 2. Clone or download this repository.
 3. Open the `Number guessing game.ipynb` file in Jupyter Notebook or any compatible IDE.
 4. Run the code and follow the prompts:
