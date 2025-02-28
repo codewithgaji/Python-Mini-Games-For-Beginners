@@ -21,7 +21,7 @@ Welcome to the Dice Rolling Game! Roll the dice to learn some interesting facts.
 
 ## Test the Game on Colab
 
-Test the game on Colab here: https://tinyurl.com/Gaji-Dice-Game
+Test the game on Colab [here](https://tinyurl.com/Gaji-Dice-Game)
 
 ## Requirements
 
