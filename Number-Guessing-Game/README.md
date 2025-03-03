@@ -57,12 +57,4 @@ Congratulations, you win!
 Would you like to play again? yes
 ```
 
-## Contributing
-Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request. Beginners in Python can also take this project and try to rebuild something similar and even more advanced, like reducing the number of attempts a player gets after wanting to play again :). Please ensure your contributions align with the purpose of the game.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-Enjoy the game and happy guessing! 🎉
 
