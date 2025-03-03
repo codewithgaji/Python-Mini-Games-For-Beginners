@@ -14,7 +14,7 @@ Welcome to **Gaji's Coin Toss Game**, an exciting Python-based game where you an
 - Friendly and competitive banter with Stark.
 
 ## How to Play
-1. **Start playing here**: https://tinyurl.com/Gaji-Coin-toss-game
+1. **Start playing [here](https://tinyurl.com/Gaji-Coin-toss-game)**
 2. Choose either **Heads** or **Tails** at the beginning of each round.
 3. Decide whether you'd like to flip the coin.
 4. If the coin lands on your choice, you score a point. If it lands on Stark's choice, Stark scores a point.
