@@ -48,5 +48,7 @@ Current Score: Stark: 0, You: 1
 ## Contributing
 Feel free to fork this repository, make improvements, and submit a pull request. Contributions are always welcome!
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-
+Enjoy the game and may the odds be in your favor! 🎉
