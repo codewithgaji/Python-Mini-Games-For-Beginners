@@ -65,3 +65,9 @@ Contributions are welcome! If you'd like to enhance this project:
 
 ## License
 
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Enjoy playing Rock-Paper-Scissors against Jarvis!
+
