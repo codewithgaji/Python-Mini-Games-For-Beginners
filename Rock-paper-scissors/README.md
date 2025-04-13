@@ -60,14 +60,3 @@ Contributions are welcome! If you'd like to enhance this project:
    git push origin feature-name
    ```
 5. Open a Pull Request.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Enjoy playing Rock-Paper-Scissors against Jarvis!
-
