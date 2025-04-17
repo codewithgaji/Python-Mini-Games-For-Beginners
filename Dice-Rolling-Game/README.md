@@ -29,4 +29,16 @@ Test the game on Colab [here](https://tinyurl.com/Gaji-Dice-Game)
 - `time`, `random` (Standard Python libraries)
   
 ## How to Run
+### 1. Run the Game Locally:
+
+- Download the Python file.
+- Execute the script in your terminal.
+### 2. Run the Game in Google Colab:
+
+- Click the link above to play the game in Colab.
+
+---
+
+Enjoy the game and have fun learning something new! 🎉
+
 
