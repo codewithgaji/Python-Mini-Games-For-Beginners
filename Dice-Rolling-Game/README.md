@@ -35,10 +35,4 @@ Test the game on Colab [here](https://tinyurl.com/Gaji-Dice-Game)
 - Execute the script in your terminal.
 ### 2. Run the Game in Google Colab:
 
-- Click the link above to play the game in Colab.
-
----
-
-Enjoy the game and have fun learning something new! 🎉
-
 
